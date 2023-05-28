@@ -1,12 +1,22 @@
-h1, h4{
-    color: #117a10;
-}
-p{
-    color: #25581b;
-}
-ul{
-    color: #117a10
-}
 body{
-    background-image: url(fundo-verde.jpg);
+background-image: url(fundo-verde.jpg); width: 500px;
+}
+.portifólio, .meuNome{
+color: #0a4909;
+font-family: serif;
+}
+.sobreMim, .habilidade{
+color: #0a4909;
+font-family: serif;
+}
+.residencia{
+color: #1e4915;
+font-family:serif, cursive;
+}
+.descricao{
+color: #244d0a;
+font-family:serif, cursive;
+}
+.Java, .Desenvolvimento, .html, .Css{
+color: #244d0a;
 }
